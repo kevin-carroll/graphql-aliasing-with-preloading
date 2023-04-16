@@ -1,7 +1,6 @@
 ## Sample Query
 
 ```graphql
-# Write your query or mutation here
 query {
   getInvoice(invoiceId:"ABC123") {
     id
